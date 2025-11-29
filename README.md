@@ -1,5 +1,5 @@
 # AssistantAI
-![Screenshot 1](images/Icon.png)
+![Screenshot 1](images/Icon.webp)
 
 # How to build a APK file (For Testing):
 1. Open project in Android Studio.
@@ -12,6 +12,6 @@
 8. Voilà ;)
 
 #Screenshots
-![Screenshot 1](images/scr1.png)
-![Screenshot 1](images/scr2.png)
-![Screenshot 1](images/scr2.png)
+![Screenshot 1](images/Scr1.png)
+![Screenshot 1](images/Scr2.png)
+![Screenshot 1](images/Scr2.png)
