@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chatFragment"
+        android:icon="@drawable/round_chat_24"
+        android:title="@string/fragment_chat" />
+
+    <item
+        android:id="@+id/voiceFragment"
+        android:icon="@drawable/round_mic_24"
+        android:title="@string/fragment_voice" />
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/round_settings_24"
+        android:title="@string/fragment_settings" />
+
+</menu>

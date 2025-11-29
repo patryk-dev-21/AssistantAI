@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        app:layout="@layout/settings_header"
+        app:selectable="false" />
+
+    <PreferenceCategory app:title="@string/pref_category_user_info">
+
+        <EditTextPreference
+            app:dialogTitle="@string/pref_dialog_user_name"
+            app:key="user_name"
+            app:title="@string/pref_title_user_name"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:dialogTitle="@string/pref_dialog_instruction"
+            app:key="user_instruction"
+            app:title="@string/pref_title_instruction"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/pref_category_system_config">
+
+        <ListPreference
+            app:defaultValue="en"
+            app:entries="@array/language_entries"
+            app:entryValues="@array/language_values"
+            app:key="app_language"
+            app:title="@string/language_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:dialogTitle="@string/pref_dialog_api_key"
+            app:key="api_key"
+            app:title="@string/pref_title_api_key"
+            app:useSimpleSummaryProvider="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

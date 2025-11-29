@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">AssistantAI</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <string name="api_key_missing">Brak klucza API</string>
+    <string name="btn_send">Wyślij</string>
+    <string name="connection_error">Błąd połączenia</string>
+    <string name="fragment_chat">Czat</string>
+    <string name="fragment_settings">Ustawienia</string>
+    <string name="fragment_voice">Głos</string>
+    <string name="hello_world">Witaj świecie</string>
+    <string name="language_is_missing">Brak danych językowych do rozpoznawania mowy</string>
+    <string name="listening">Słucham...</string>
+    <string name="response_not_recognized">Nie zrozumiałem odpowiedzi</string>
+    <string name="speech_recognition_not_available">Rozpoznawanie mowy niedostępne</string>
+    <string name="tap_to_speak">Naciśnij, aby mówić</string>
+    <string name="thinking">Myślę...</string>
+    <string name="type_a_message">Wpisz wiadomość...</string>
+    <string name="how_can_i_help_you_today">Cześć! Jak mogę Ci dzisiaj pomóc?</string>
+    <string name="language_title">Język</string>
+    <string name="language_summary">Wybierz język dla AI i głosu</string>
+
+    <string name="pref_category_user_info">Informacje o użytkowniku</string>
+    <string name="pref_category_system_config">Konfiguracja systemu</string>
+    <string name="pref_title_user_name">Nazwa użytkownika</string>
+    <string name="pref_dialog_user_name">Wpisz swoje imię</string>
+    <string name="pref_title_instruction">Instrukcja</string>
+    <string name="pref_dialog_instruction">Wpisz instrukcję</string>
+    <string name="pref_title_api_key">Klucz API</string>
+    <string name="pref_dialog_api_key">Wpisz klucz API</string>
+
+    <string-array name="language_entries">
+        <item>Angielski</item>
+        <item>Francuski</item>
+        <item>Polski</item>
+    </string-array>
+
+</resources>
