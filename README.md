@@ -11,7 +11,7 @@
 7. Copy .apk to a device and install
 8. Voilà ;)
 
-#Screenshots
+# Screenshots
 ![Screenshot 1](images/Scr1.png)
 ![Screenshot 1](images/Scr2.png)
 ![Screenshot 1](images/Scr2.png)
