@@ -1,7 +1,7 @@
 # AssistantAI
 ![Screenshot 1](images/Icon.webp)
 
-# How to build a APK file (For Testing):
+# How to build a APK file (For Testing)
 1. Open project in Android Studio.
 2. Go to the top menu bar and select Build.
 3. Select Build Bundle(s) / APK(s).
