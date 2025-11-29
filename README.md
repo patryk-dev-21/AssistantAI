@@ -12,6 +12,6 @@
 8. Voilà ;)
 
 # Screenshots
-![Screenshot 1](images/Scr1.png)
-![Screenshot 1](images/Scr2.png)
-![Screenshot 1](images/Scr2.png)
+<img src="images/Scr1.png" width="300" />
+<img src="images/Scr2.png" width="300" />
+<img src="images/Scr3.png" width="300" />
